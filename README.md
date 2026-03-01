@@ -1,5 +1,5 @@
 # You Type What You Are 🐱🚗☕
-
+# ALL CODEBASE AI GENERATED, DO NOT THROW TOMATOS TO ME PLEASE !!! 
 A tiny, funny, and slightly judgmental typing experiment.
 
 If you type **`cat`** — congrats, you *are* a cat 🐱  
